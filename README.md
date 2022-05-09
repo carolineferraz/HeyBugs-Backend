@@ -2,11 +2,11 @@
 
 
 
-### :coffee:  Descrição: Projeto de Blog Pessoal 
+### :coffee:  Descrição: Projeto de Blog Pessoal em desenvolvimento durante o bootcamp da Generation Brasil
 
 
 
-### :seedling:  Status: Em desenvolvimento
+### :seedling:  Status: Em andamento
 
 
 
