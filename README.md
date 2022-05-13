@@ -13,7 +13,7 @@
 
 ### :dart: Objetivos:
 
-#### 					:hourglass_flowing_sand: Realizar o projeto de back-end
+#### 					:heavy_check_mark: Realizar o projeto de back-end 
 
 #### 					:hourglass_flowing_sand: Realizar o projeto de front-end
 
