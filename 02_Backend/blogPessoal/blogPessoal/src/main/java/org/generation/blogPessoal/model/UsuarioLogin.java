@@ -1,23 +1,39 @@
 package org.generation.blogPessoal.model;
 
 public class UsuarioLogin {
-	
+
 	private Long id;
+
 	private String nome;
+
 	private String usuario;
-	private String foto;
+
 	private String senha;
-	private String token;
-	private String tipo;
+
+	private String foto;
 	
-	public UsuarioLogin(Long id, String nome, String usuario, String foto, String senha, String token, String tipo) {
+	private String tipo;
+
+	private String token;
+	
+	
+
+	public UsuarioLogin(Long id, String nome, String usuario, String senha, String foto, String tipo, String token) {
 		super();
 		this.id = id;
 		this.nome = nome;
 		this.usuario = usuario;
-		this.foto = foto;
 		this.senha = senha;
+		this.foto = foto;
+		this.tipo = tipo;
 		this.token = token;
+	}
+
+	public String getTipo() {
+		return tipo;
+	}
+
+	public void setTipo(String tipo) {
 		this.tipo = tipo;
 	}
 
@@ -40,14 +56,6 @@ public class UsuarioLogin {
 	public String getUsuario() {
 		return usuario;
 	}
-	
-	public String getFoto() {
-		return foto;
-	}
-
-	public void setFoto(String foto) {
-		this.foto = foto;
-	}
 
 	public String getToken() {
 		return token;
@@ -69,12 +77,12 @@ public class UsuarioLogin {
 		this.senha = senha;
 	}
 
-	public String getTipo() {
-		return tipo;
+	public String getFoto() {
+		return foto;
 	}
 
-	public void setTipo(String tipo) {
-		this.tipo = tipo;
-	}
+	public void setFoto(String foto) {
+		this.foto = foto;
+	}	
 	
 }
