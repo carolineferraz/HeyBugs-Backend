@@ -15,8 +15,8 @@ Projeto de Back-end da aplicação "Hey, Bugs!". Um projeto pessoal de um blog p
 
 <h2>Objetivos e Tecnologias utilizadas:</h2>
 <p>• Construção do Diagrama Entidade-Relacionamento (DER) no MySQL Workbench;</p>
-<p>• Desenvolvimento do Back-end da aplicação em Java/Spring na IDE Eclipse, com persistência de dados no banco de dados relacional MySQL, implementação do Spring Security (Basic Auth) e implementação do CRUD completo da aplicação com 6 métodos;</p> 
+<p>• Desenvolvimento do Back-end da aplicação em Java/Spring na IDE Eclipse, com persistência de dados para o banco de dados relacional MySQL, implementação do Spring Security (Basic Auth) e implementação do CRUD completo da aplicação com 6 métodos;</p> 
 <p>• Testagem da API utilizando o Postman;</p> 
 <p>• Documentação da API com o Swagger;</p> 
-<p>• Deploy do back-end para o servidor do Heroku.</p> 
+<p>• Deploy da API para o servidor do Heroku.</p> 
 
